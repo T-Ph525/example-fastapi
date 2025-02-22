@@ -7,3 +7,4 @@ Pillow
 slowapi
 python-multipart
 transformers
+accelerate
