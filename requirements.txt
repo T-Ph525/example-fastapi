@@ -6,3 +6,4 @@ diffusers
 Pillow
 slowapi
 python-multipart
+transformers
